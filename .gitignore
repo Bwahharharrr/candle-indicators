@@ -130,3 +130,6 @@ dmypy.json
 *.log
 *.sqlite3
 
+# Custom patterns
+# to ignore custom my* indicators you can create
+candle_indicators/my*.py
