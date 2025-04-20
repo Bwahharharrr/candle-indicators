@@ -12,6 +12,8 @@ pip install .
 
 For usage examples, please check the `example.py` file in the repository. This provides comprehensive demonstrations of how to use the available indicators.
 
+![Indicator Usage Example](https://i.imgur.com/x3W1cUr.png)
+
 ### Examples
 
 To display all installed/auto-detected indicators (including custom ones) and their parameters with default values:
@@ -40,6 +42,8 @@ This repository is intended to contain only standard indicators that match the b
 - RSI (Relative Strength Index)
 - MACD (Moving Average Convergence Divergence)
 - BB (Bollinger Bands)
+
+![Indicator Example](https://i.imgur.com/vpT5PUf.png)
 
 ## License
 
